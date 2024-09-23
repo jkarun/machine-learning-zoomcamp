@@ -15,6 +15,8 @@ You can get the version information using the `__version__` field:
 pd.__version__
 ```
 
+**Answer:** Python 3.11.9
+
 ### Getting the data 
 
 For this homework, we'll use the Laptops Price dataset. Download it from 
@@ -30,6 +32,8 @@ Or just open it with your browser and click "Save as...".
 
 Now read it with Pandas.
 
+
+
 ### Q2. Records count
 
 How many records are in the dataset?
@@ -38,6 +42,11 @@ How many records are in the dataset?
 - 1000
 - 2160
 - 12160
+
+
+**Answer:** 2160
+
+
 
 ### Q3. Laptop brands
 
@@ -48,6 +57,11 @@ How many laptop brands are presented in the dataset?
 - 28
 - 2160
 
+
+**Answer:** 27
+
+
+
 ### Q4. Missing values
 
 How many columns in the dataset have missing values?
@@ -57,6 +71,11 @@ How many columns in the dataset have missing values?
 - 2
 - 3
 
+
+**Answer:** 3
+
+
+
 ### Q5. Maximum final price
 
 What's the maximum final price of Dell notebooks in the dataset?
@@ -65,6 +84,11 @@ What's the maximum final price of Dell notebooks in the dataset?
 - 3691
 - 3849
 - 3936
+
+
+**Answer:** 3936
+
+
 
 ### Q6. Median value of Screen
 
@@ -79,6 +103,11 @@ Has it changed?
 
 - Yes
 - No
+
+
+**Answer:** No
+
+
 
 ### Q7. Sum of weights
 
@@ -97,6 +126,11 @@ Has it changed?
 - 45.29
 - 45.58
 - 91.30
+
+
+**Answer:** 91.30
+
+
 
 
 ## Submit the results
