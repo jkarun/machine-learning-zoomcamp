@@ -49,6 +49,7 @@ There's one column with missing values. What is it?
 * `'screen'`
 * `'final_price'`
 
+Answer: `'screen'`
 
 ### Question 2
 
@@ -58,6 +59,8 @@ What's the median (50% percentile) for variable `'ram'`?
 - 16
 - 24
 - 32
+
+Answer: 16
 
 ### Prepare and split the dataset
 
@@ -83,6 +86,7 @@ Options:
 - With mean
 - Both are equally good
 
+Answer: With 0
 
 ### Question 4
 
@@ -103,6 +107,7 @@ Options:
 - 10
 - 100
 
+Answer: 100
 
 ### Question 5 
 
@@ -120,6 +125,8 @@ What's the value of std?
 - 29.176
 - 39.176
 - 49.176
+
+Answer: 39.176
 
 > Note: Standard deviation shows how different the values are.
 > If it's low, then all values are approximately the same.
@@ -140,6 +147,8 @@ Options:
 - 608.60
 - 618.60
 - 628.60
+
+Answer: 608.60
 
 ## Submit the results
 
